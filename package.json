@@ -10,7 +10,14 @@
   "categories": [
     "Themes"
   ],
-  "publisher": "Kakamotobi",
+  "author": {
+    "name": "Kakamotobi",
+    "url": "https://github.com/Kakamotobi/Greeeeen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kakamotobi/Greeeeen"
+  },
   "contributes": {
     "themes": [
       {
